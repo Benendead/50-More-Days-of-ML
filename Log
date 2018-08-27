@@ -1,7 +1,7 @@
 Day 1: August 25th, 2018 (0 extra hours studied)
-Today's Progress: I began the reformatting of this studying system and also began the Conducting project. The progress I made
-on that today was first reading one project on hand rcognition using OpenCV and then installing Homebrew and OpenCV. I then
-worked on configuring my laptop and XCode in preparation for some prototyping or testing of concepts in iOS OpenCV.
-Thoughts: My laptop is really slow and I should get another 8GB of RAM when that's possible. Also, I don't want to get too
-dragged down in technical installations if OpenCV's quite difficult; I should transition to a school computer if this gives me
-much more trouble in getting started with XCode and OpenCV.
+Today's Progress: I began the reformatting of this studying system and also began the Conducting project. The progress I made on that today was first reading one project on hand rcognition using OpenCV and then installing Homebrew and OpenCV. I then worked on configuring my laptop and XCode in preparation for some prototyping or testing of concepts in iOS OpenCV.
+Thoughts: My laptop is really slow and I should get another 8GB of RAM when that's possible. Also, I don't want to get too dragged down in technical installations if OpenCV's quite difficult; I should transition to a school computer if this gives me much more trouble in getting started with XCode and OpenCV.
+
+Day 2: August 26th, 2018 (0 extra hours studied)
+Today's Progress: Installed PyCharm Community as an IDE for testing OpenCV, also cloned an OpenCV repository for XCode although it seems like that won't be needed. Also found two tutorials worth pursuing once everything's installed.
+Thoughts: Installing is boring and slow, but by reading ahead in articles and checking other tangents, I managed to feel productive.
