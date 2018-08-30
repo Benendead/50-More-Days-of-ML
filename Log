@@ -14,6 +14,7 @@ Day 4: August 28th, 2018 (0 extra hours studied)
 Today's Progress: Finally got OpenCV to work by using it in Jupyter Notebook. Opened an image, showed it in-notebook, masked it, and got video webcam feed working too. Tomorrow I'll work on implementing select pixels by mouse-click maybe to select the colors to detect skin with.
 Thoughts: It's hella rewarding to finally have some results. This is why I'm doing this work.
 
-Day 5: August 29th, 2018 (0 extra hours studied)
+Day 5: August 29th, 2018 (1 extra hour studied)
 Today's Progress: Continued working on getting video to display well from OpenCV running in a Jupyter Notebook. Tried multiple approaches, few to none worked. I think using the video window that cannot close is likely the best for taking a mouse input, but I should look into the setdata and other mouse options one more time.
 Thoughts: Made little progress, but I was building using others' code, so I somehow still felt like I was learning.
+Another hour: Continued trying out things with the video player, started looking into ScikitLearn, and also managed to mask my live video as a proof-of-concept. Mouse input seems to be infeasible with the resources I can find now.
