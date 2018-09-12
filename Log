@@ -44,3 +44,7 @@ Thoughts: This paper's definitely getting old and I'd prefer to do something mor
 Days 15 and 16: September 10th, 2018 (-2 extra hours studied, for extra shame)
 Today's Progress: Spent one hour on the random forest paper and one hour on deep fried meme research. Currently defining the goals for my project and its metrics for success.
 Thoughts: Memes are fun and there's a surprising amount of work I could put into a Meme Deep Frier if I went all-in.
+
+Day 17: September 11th, 2018 (-1 extra hours studied, for a bit less shame)
+Today's Progress: Spent two hours today beginning to implement a random forest algorithm on the Titanic data set from Kaggle. So far can split a dataframe on a given feature and calculate the Gini score for that split.
+Thoughts: Actually coding my own stuff is pretty rewarding. Hyped to continue my progress.
