@@ -48,3 +48,7 @@ Thoughts: Memes are fun and there's a surprising amount of work I could put into
 Day 17: September 11th, 2018 (-1 extra hours studied, for a bit less shame)
 Today's Progress: Spent two hours today beginning to implement a random forest algorithm on the Titanic data set from Kaggle. So far can split a dataframe on a given feature and calculate the Gini score for that split.
 Thoughts: Actually coding my own stuff is pretty rewarding. Hyped to continue my progress.
+
+Day 18: September 12th, 2018 (-1 extra hours studied, for minute shame)
+Today's Progress: Developed methods to categorize the data for the Titanic problem more smoothly. Also tested the Gini scores of each new category and also cleaned up the general previews given in the Jupyter Notebook so far.
+Thoughts: I reached a roadblock on actually coding a decision tree without anything but found a Jason Brownlee tutorial on it. Head through that and we'll be good to go.
