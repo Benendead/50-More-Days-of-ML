@@ -52,3 +52,7 @@ Thoughts: Actually coding my own stuff is pretty rewarding. Hyped to continue my
 Day 18: September 12th, 2018 (-1 extra hours studied, for minute shame)
 Today's Progress: Developed methods to categorize the data for the Titanic problem more smoothly. Also tested the Gini scores of each new category and also cleaned up the general previews given in the Jupyter Notebook so far.
 Thoughts: I reached a roadblock on actually coding a decision tree without anything but found a Jason Brownlee tutorial on it. Head through that and we'll be good to go.
+
+Days 19 and 20: September 14th, 2018 (-2 extra hours studied, I'll fix this soon)
+Today's Progress: Had the first meeting of the robotics club and I think the problem we're working on will have applications in reinforcement learning once it works. Spent the hour studying transformation matrices and began trying to animate that process in Jupyter Notebooks, which turns out to be difficult.
+Thoughts: Plotting and animation is hard.
