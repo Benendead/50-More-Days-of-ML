@@ -56,3 +56,7 @@ Thoughts: I reached a roadblock on actually coding a decision tree without anyth
 Days 19 and 20: September 14th, 2018 (-2 extra hours studied, I'll fix this soon)
 Today's Progress: Had the first meeting of the robotics club and I think the problem we're working on will have applications in reinforcement learning once it works. Spent the hour studying transformation matrices and began trying to animate that process in Jupyter Notebooks, which turns out to be difficult.
 Thoughts: Plotting and animation is hard.
+
+Day 21: September 15th, 2018 (-1 extra hours studied, fixing this)
+Today's Progress: of the two hours today, spent one and a half learning how to animate in Jupyter Notebook from a tutorial. Then went entirely through his code to annotate methods and develop a better understanding of what was actually happening. For the rest of my time, I've been working on first hand-writing my understanding of forward transformation matrices and then began coding a ReferenceFrame2D class to try to illustrate the intuitions I'm struggling with. Almost through with the class and I now just need to plot each frame's axes as lines, animate them somehow, and boom it's done. Long road ahead.
+Thoughts: Shiffman always calls. Someday soon.
