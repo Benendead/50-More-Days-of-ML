@@ -64,3 +64,7 @@ Thoughts: Shiffman always calls. Someday soon.
 Days 22 and 23: September 17th, 2018 (-2 extra hours studied, now not fixing this)
 Today's Progress: Continued work on the rotational matrices thing. Coding it without my notes for intuition is absolutely an error. Tomorrow I should shift the entire thing into numpy arrays/matrices so I can begin the math part. Still, logic building is good coding practice.
 Thoughts: Yet again behind on hours, but I think that I'm pushing myself in terms of learning coding here nonetheless. Hope that this interesting challenge might motivate me to catch up.
+
+Day 24: September 18th, 2018 (-2 extra hours studied)
+Today's Progess: I continued working on the reference frame project, but quickly realized that I had little idea that to do. Spent the other half of the hour learning how/why the translational matrix works. Then derived the translation + rotation "combo matrix" using my own math by hand.
+Thoughts: Now that I actually understand the math behind my goal, I hope that I can implement this fairly quickly later tonight/tomorrow. Seems simple enough now.
