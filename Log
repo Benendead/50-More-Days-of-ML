@@ -60,3 +60,7 @@ Thoughts: Plotting and animation is hard.
 Day 21: September 15th, 2018 (-1 extra hours studied, fixing this)
 Today's Progress: of the two hours today, spent one and a half learning how to animate in Jupyter Notebook from a tutorial. Then went entirely through his code to annotate methods and develop a better understanding of what was actually happening. For the rest of my time, I've been working on first hand-writing my understanding of forward transformation matrices and then began coding a ReferenceFrame2D class to try to illustrate the intuitions I'm struggling with. Almost through with the class and I now just need to plot each frame's axes as lines, animate them somehow, and boom it's done. Long road ahead.
 Thoughts: Shiffman always calls. Someday soon.
+
+Days 22 and 23: September 17th, 2018 (-2 extra hours studied, now not fixing this)
+Today's Progress: Continued work on the rotational matrices thing. Coding it without my notes for intuition is absolutely an error. Tomorrow I should shift the entire thing into numpy arrays/matrices so I can begin the math part. Still, logic building is good coding practice.
+Thoughts: Yet again behind on hours, but I think that I'm pushing myself in terms of learning coding here nonetheless. Hope that this interesting challenge might motivate me to catch up.
