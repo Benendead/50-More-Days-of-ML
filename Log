@@ -72,3 +72,7 @@ Thoughts: Now that I actually understand the math behind my goal, I hope that I 
 Day 25: September 19th, 2018 (-2 extra hours studied)
 Today's Progess: Revamped the reference frame class by dismantlign it briefly. Replaced part of it with a developing translation matrix class, which just makes more sense to implement externally from the frames.
 Thoughts: Writing this the day after but it's separate work and I did do it, just want to wrap that day's description up before working today.
+
+Day 26: September 20th, 2018 (-1.5 extra hours studied)
+Today's Progess: Spent *an hour and a half* working to fix the matrix multiplication so it translates things in a way that makes sense. No success.
+Thoughts: To avoid permanently quitting this overall system, I'll work on broader ML goals tomorrow. Enough coding for a bit, I feel.
