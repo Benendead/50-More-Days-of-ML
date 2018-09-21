@@ -66,5 +66,9 @@ Today's Progress: Continued work on the rotational matrices thing. Coding it wit
 Thoughts: Yet again behind on hours, but I think that I'm pushing myself in terms of learning coding here nonetheless. Hope that this interesting challenge might motivate me to catch up.
 
 Day 24: September 18th, 2018 (-2 extra hours studied)
-Today's Progess: I continued working on the reference frame project, but quickly realized that I had little idea that to do. Spent the other half of the hour learning how/why the translational matrix works. Then derived the translation + rotation "combo matrix" using my own math by hand.
+Today's Progess: I continued working on the reference frame project, but quickly realized that I had little idea what to do. Spent the other half of the hour learning how/why the translational matrix works. Then derived the translation + rotation "combo matrix" using my own math by hand.
 Thoughts: Now that I actually understand the math behind my goal, I hope that I can implement this fairly quickly later tonight/tomorrow. Seems simple enough now.
+
+Day 25: September 19th, 2018 (-2 extra hours studied)
+Today's Progess: Revamped the reference frame class by dismantlign it briefly. Replaced part of it with a developing translation matrix class, which just makes more sense to implement externally from the frames.
+Thoughts: Writing this the day after but it's separate work and I did do it, just want to wrap that day's description up before working today.
