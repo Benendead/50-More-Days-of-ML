@@ -76,3 +76,7 @@ Thoughts: Writing this the day after but it's separate work and I did do it, jus
 Day 26: September 20th, 2018 (-1.5 extra hours studied)
 Today's Progess: Spent *an hour and a half* working to fix the matrix multiplication so it translates things in a way that makes sense. No success.
 Thoughts: To avoid permanently quitting this overall system, I'll work on broader ML goals tomorrow. Enough coding for a bit, I feel.
+
+Day 27: September 21st, 2018 (-1.5 extra hours studied)
+Today's Progess: Studied inner workings of CNNs for twenty minutes, then spent the rest of my hour installing Keras, Theano, TensorFlow, and other dependencies. Am currently having trouble importing Keras into a project because the TensorFlow compile version is having issues with the runtime version.
+Thoughts: Installation issues suck. Still, I finally installed something I've heard about for years.
