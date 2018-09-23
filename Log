@@ -80,3 +80,7 @@ Thoughts: To avoid permanently quitting this overall system, I'll work on broade
 Day 27: September 21st, 2018 (-1.5 extra hours studied)
 Today's Progess: Studied inner workings of CNNs for twenty minutes, then spent the rest of my hour installing Keras, Theano, TensorFlow, and other dependencies. Am currently having trouble importing Keras into a project because the TensorFlow compile version is having issues with the runtime version.
 Thoughts: Installation issues suck. Still, I finally installed something I've heard about for years.
+
+Day 28: September 22nd, 2018 (-1.5 extra hours studied)
+Today's Progress: I ended up fixing the TensorFlow issue by downgrading my version. Spent the rest of my time between an introductory Keras guide and an explanation of various GD optimization methods. Before using any algorithm, I plan to understand it first.
+Thoughts: I'm rounding out my background and filling in a lot of the gaps in my knowledge, which feels really satisfying yet still like comfortably familiar concepts.
