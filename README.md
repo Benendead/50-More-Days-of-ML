@@ -8,6 +8,9 @@ Goals for these 50 days (to be updated over time):
 * Complete the Composing Project (started 8/25/2018), where I'm going to work on creating a computer vision application to track hands for use in creating more human-sounding MIDI and allowing variable conducted tempos/dynamics in my own eventual composing application.
 * Code my own solution to the classification of the Titanic data set on Kaggle using the random forest algorithm.
 * Design a robotic arm that can move smoothly in 3d space with full rotational ability. Then apply deep reinforcement learning to this system.
+BONUS:
+This is with the UDSC at my college, so I'm obligated to include:
+* Develop a solution the Kaggle's MNIST classification challenge. Code it out yourself, but using popular libraries. I must understand all ML algorithms I use in any solutions.
 
 Additional Rules:
 * Extra hours can be tracked and allowed to make up for future missed days. This should not work in reverse, but of course it will.
