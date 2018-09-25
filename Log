@@ -84,3 +84,7 @@ Thoughts: Installation issues suck. Still, I finally installed something I've he
 Day 28: September 22nd, 2018 (-1.5 extra hours studied)
 Today's Progress: I ended up fixing the TensorFlow issue by downgrading my version. Spent the rest of my time between an introductory Keras guide and an explanation of various GD optimization methods. Before using any algorithm, I plan to understand it first.
 Thoughts: I'm rounding out my background and filling in a lot of the gaps in my knowledge, which feels really satisfying yet still like comfortably familiar concepts.
+
+Day 30: September 24th, 2018 (-1.5 extra hours studied)
+Today's Progress: I studied for two hours today. For the first hour, I continued learning about various optimization methods for gradient descent. This continued up to RMSprop, and I left the rest of the article for a more ML-literate me. The second hour, I devoted my time to continuing through one tutorial on the MNIST dataset. I created my own method for randomly picked and plotting 4 training examples. Also preprocessed the data.
+Thoughts: I had some troubles as I tried to import the MNIST data set, but between a few StackOverflow questions and a commandline saving grace, I managed to download the data set directly in the code itself.
