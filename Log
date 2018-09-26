@@ -88,3 +88,7 @@ Thoughts: I'm rounding out my background and filling in a lot of the gaps in my 
 Day 30: September 24th, 2018 (-1.5 extra hours studied)
 Today's Progress: I studied for two hours today. For the first hour, I continued learning about various optimization methods for gradient descent. This continued up to RMSprop, and I left the rest of the article for a more ML-literate me. The second hour, I devoted my time to continuing through one tutorial on the MNIST dataset. I created my own method for randomly picked and plotting 4 training examples. Also preprocessed the data.
 Thoughts: I had some troubles as I tried to import the MNIST data set, but between a few StackOverflow questions and a commandline saving grace, I managed to download the data set directly in the code itself.
+
+Day 31: September 25th, 2018 (-1.5 extra hours studied)
+Today's Progress: Continuing with the tutorial I've been following, I finished coding my first CNN (using Keras). Its loss was 6.1700069572448735 and the accuracy 0.098. That seems bad. But hey, it ran even on my crappy laptop and I therefore think there's hope yet.
+Thoughts: I should figure out how to use callbacks in Keras, gain the ability to pause training, and then start making a system so that I can train algorithms using (much faster) school computers.
