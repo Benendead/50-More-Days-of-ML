@@ -96,3 +96,7 @@ Thoughts: I should figure out how to use callbacks in Keras, gain the ability to
 Day 32: September 26th, 2018 (-1.25 extra hours studied)
 Today's Progress: Spent some time learning about the Adam optimizer. Rest of the time devoted to trying to improve the Jupyter/Keras/Tensorflow/Python 3.6/virtualenvironment setup, or lack thereof.
 Thoughts: Installing things is definitely difficult. I should likely begin with a fresh virtual environment and fully go through the setup, operation, and maintenance of a virtual environment before trying to use one again.
+
+Days 33, 34: September 28th, 2018 (-1.25 extra hours studied)
+Today's Progress: Failed at trying to transition my notebook entirely into Kaggle's site, so I instead imported Kaggle's datasets in my notebook on my own machine. Managed to format that, train, and test using that data before making my first submission on Kaggle. All that's left for this project is to add the ability to save/load the entire trained CNN and to publish the fixed notebook to my Github. Hype.
+Thoughts: As I said, hype.
