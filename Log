@@ -100,3 +100,7 @@ Thoughts: Installing things is definitely difficult. I should likely begin with 
 Days 33, 34: September 28th, 2018 (-1.25 extra hours studied)
 Today's Progress: Failed at trying to transition my notebook entirely into Kaggle's site, so I instead imported Kaggle's datasets in my notebook on my own machine. Managed to format that, train, and test using that data before making my first submission on Kaggle. All that's left for this project is to add the ability to save/load the entire trained CNN and to publish the fixed notebook to my Github. Hype.
 Thoughts: As I said, hype.
+
+Day 35: September 29th, 2018 (-0.5 extra hours studied)
+Today's Progress: I implemented a means to save and load models from Keras before training a single model 15 total epochs. Submitted this new PB on accuracy, saved it, and then moved on to the Two Sigma project. I've read through this challenge's description as well as compiled some sources to read through about stock market predictions using news.
+Thoughts: Want to make sure that I'm moving forward on this project while creating an intelligent foundation in the hypothetically new area. We'll see.
