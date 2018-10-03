@@ -108,3 +108,7 @@ Thoughts: Want to make sure that I'm moving forward on this project while creati
 Days 36, 37: October 1st, 2018 (0 extra hours studied)
 Today's Progress: I worked on Raspberry Pi servo control, wiring up GPIO inputs intelligently, and beginning a keyboard circuit in order to learn about GPIO's Button class.
 Thoughts: Intermediate Raspberry Pi knowledge doesn't immediately translate to ML applications, but I think it's a necessary step in working with this new system.
+
+Day 38: October 2nd, 2018 (Breakeven)
+Today's Progress: Spent the hour first studying what time series forecasting means, and then began reading the first of five research papers I'm going to study for the TwoSigma challenge.
+Thoughts: The paper's writers are from Iran, actually, and so it unfortunately has some confusing sentence structures and grammar errors. Alas, though, it's good research and I plan to power on through.
