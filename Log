@@ -112,3 +112,7 @@ Thoughts: Intermediate Raspberry Pi knowledge doesn't immediately translate to M
 Day 38: October 2nd, 2018 (Breakeven)
 Today's Progress: Spent the hour first studying what time series forecasting means, and then began reading the first of five research papers I'm going to study for the TwoSigma challenge.
 Thoughts: The paper's writers are from Iran, actually, and so it unfortunately has some confusing sentence structures and grammar errors. Alas, though, it's good research and I plan to power on through.
+
+Day 39: October 3rd, 2018 (+1 extra hour studied)
+Today's Progress: Spent half an hour studying genetic algorithms, and then began to implement a means to randomly generate racetracks for GA training. It's harder than I anticipated but I've made some progress using bezier curves. I'll probably retry a method once more tomorrow but otherwise just move on in the TwoSigma research.
+Thoughts: Problem-solving in my own code is fun, but at some point I question my means to get from Point A to Point B effectively with a plan.
