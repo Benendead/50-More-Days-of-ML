@@ -116,3 +116,7 @@ Thoughts: The paper's writers are from Iran, actually, and so it unfortunately h
 Day 39: October 3rd, 2018 (+1 extra hour studied)
 Today's Progress: Spent half an hour studying genetic algorithms, and then began to implement a means to randomly generate racetracks for GA training. It's harder than I anticipated but I've made some progress using bezier curves. I'll probably retry a method once more tomorrow but otherwise just move on in the TwoSigma research.
 Thoughts: Problem-solving in my own code is fun, but at some point I question my means to get from Point A to Point B effectively with a plan.
+
+Days 40, 41, 42: October 6th, 2018 (0 extra hours studied)
+Today's Progress: In between my last log and now, I finished reading the first research paper. Its conclusion was overall "using a genetic algorithm to initialize weights on a very simple ANN helps convergence speed A LOT." Beyond that, I added a few more papers to the docket and will begin either a pandas, matplotlib, or Python Finance series tomorrow.
+Thoughts: Not sure why I didn't submit a log on the 4th, because my GoogleDocs shows clear edits for over an hour, but whatever. I'm back. Only eight days left, what will I finish?
