@@ -1,4 +1,4 @@
-# 50-More-Days-of-ML
+# 50-More-Days-of-ML (Done)
 The rules are simple: 50 more days. 1 hour per day of ML-related studying.
 
 I'm continuing the 100 Days of ML challenge, just refocusing and making sure that I don't repeat past mistakes.
